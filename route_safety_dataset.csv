@@ -1,0 +1,501 @@
+Area_Name,Hour_of_Day,Nearby_Shops_Count,Is_Main_Road,Street_Light_Score,Police_Station_Dist_Km,Safety_Score,Risk_Label,Risk_Category
+College Road,19,14,1,0.8,3.4,68.5,0,SAFE
+Hospital Junction,20,15,1,0.81,0.5,79.7,0,SAFE
+Residential Colony Lane,1,11,0,0.11,3.6,26.7,2,HIGH_ALERT
+Canal Bund Road,21,0,0,0.14,5.4,10.0,2,HIGH_ALERT
+Canal Bund Road,15,2,0,0.97,5.6,42.6,1,CAUTION
+Industrial Area Road,2,0,0,0.1,6.2,3.7,2,HIGH_ALERT
+College Road,17,7,1,0.93,3.9,65.8,0,SAFE
+Bus Stand Junction,19,39,1,0.68,1.0,86.2,0,SAFE
+Hospital Junction,14,14,1,0.89,1.8,74.7,0,SAFE
+Village Outskirts Road,21,1,0,0.06,6.1,11.3,2,HIGH_ALERT
+Bus Stand Junction,11,13,1,0.99,1.0,80.0,0,SAFE
+College Road,7,8,1,0.89,2.5,73.1,0,SAFE
+Residential Colony Lane,23,13,0,0.23,3.9,31.0,2,HIGH_ALERT
+Main Market Road,6,20,1,0.88,1.6,82.7,0,SAFE
+Hospital Junction,10,30,1,0.96,1.5,92.3,0,SAFE
+College Road,8,11,1,0.86,2.6,70.9,0,SAFE
+College Road,22,11,1,0.8,3.2,69.6,0,SAFE
+Railway Station Road,4,26,1,0.84,1.5,85.6,0,SAFE
+Canal Bund Road,22,2,0,0.06,4.7,10.9,2,HIGH_ALERT
+Railway Station Road,6,28,1,0.93,0.8,96.5,0,SAFE
+Residential Colony Lane,22,10,0,0.28,2.5,33.1,2,HIGH_ALERT
+Bus Stand Junction,9,24,1,0.87,0.8,90.7,0,SAFE
+NH-16 Highway Stretch,10,13,1,0.9,1.8,76.8,0,SAFE
+Industrial Area Road,19,0,0,0.05,7.4,4.6,2,HIGH_ALERT
+Hospital Junction,8,16,1,0.89,1.5,79.6,0,SAFE
+Hospital Junction,8,31,1,1.0,0.9,96.2,0,SAFE
+NH-16 Highway Stretch,11,10,1,0.9,2.7,71.9,0,SAFE
+Village Outskirts Road,22,0,0,0.24,5.1,23.0,2,HIGH_ALERT
+Bus Stand Junction,20,23,1,0.79,1.1,85.2,0,SAFE
+Hospital Junction,16,17,1,0.94,0.9,86.6,0,SAFE
+Village Outskirts Road,21,2,0,0.29,7.2,14.6,2,HIGH_ALERT
+Railway Station Road,19,39,1,0.65,1.5,80.4,0,SAFE
+Railway Station Road,18,31,1,0.88,1.4,89.5,0,SAFE
+Bus Stand Junction,7,12,1,0.96,1.4,84.1,0,SAFE
+Bus Stand Junction,22,21,1,0.81,0.7,87.5,0,SAFE
+Main Market Road,1,12,1,0.87,0.5,82.5,0,SAFE
+Residential Colony Lane,22,12,0,0.26,2.2,38.3,2,HIGH_ALERT
+Village Outskirts Road,23,0,0,0.08,6.4,7.1,2,HIGH_ALERT
+Hospital Junction,3,17,1,0.8,1.4,81.6,0,SAFE
+Industrial Area Road,17,3,0,0.92,4.9,43.1,1,CAUTION
+Railway Station Road,15,20,1,0.85,0.6,83.3,0,SAFE
+Hospital Junction,7,18,1,0.9,1.5,84.3,0,SAFE
+Railway Station Road,21,34,1,0.8,0.7,91.2,0,SAFE
+Hospital Junction,1,32,1,0.79,1.2,90.9,0,SAFE
+Main Market Road,4,39,1,0.72,1.5,86.6,0,SAFE
+Main Market Road,11,39,1,0.89,1.1,93.0,0,SAFE
+Village Outskirts Road,2,3,0,0.33,3.6,27.6,2,HIGH_ALERT
+Railway Station Road,0,31,1,0.75,0.8,89.0,0,SAFE
+College Road,0,6,1,0.54,1.9,56.9,1,CAUTION
+Hospital Junction,13,35,1,0.95,0.7,97.7,0,SAFE
+College Road,1,14,1,0.73,2.2,73.2,0,SAFE
+Canal Bund Road,22,1,0,0.31,7.1,19.6,2,HIGH_ALERT
+Canal Bund Road,6,0,0,0.88,6.3,34.6,2,HIGH_ALERT
+Railway Station Road,22,26,1,0.67,0.9,84.1,0,SAFE
+College Road,21,6,1,0.54,2.7,56.4,1,CAUTION
+Village Outskirts Road,16,3,0,0.9,3.7,41.0,1,CAUTION
+Residential Colony Lane,0,11,0,0.11,3.4,26.4,2,HIGH_ALERT
+NH-16 Highway Stretch,14,6,1,0.96,3.1,68.7,0,SAFE
+Bus Stand Junction,9,30,1,0.89,1.7,89.5,0,SAFE
+Residential Colony Lane,20,10,0,0.26,2.6,34.3,2,HIGH_ALERT
+Main Market Road,0,26,1,0.79,0.7,93.7,0,SAFE
+Residential Colony Lane,0,10,0,0.18,3.1,34.3,2,HIGH_ALERT
+College Road,2,13,1,0.84,2.4,75.3,0,SAFE
+Canal Bund Road,15,0,0,0.88,5.6,39.1,2,HIGH_ALERT
+Residential Colony Lane,22,13,0,0.24,3.0,36.1,2,HIGH_ALERT
+Canal Bund Road,18,1,0,0.93,5.8,37.9,2,HIGH_ALERT
+NH-16 Highway Stretch,15,11,1,0.99,3.9,74.1,0,SAFE
+NH-16 Highway Stretch,23,5,1,0.43,2.9,51.6,1,CAUTION
+Railway Station Road,10,16,1,0.97,1.4,81.2,0,SAFE
+Bus Stand Junction,18,29,1,0.86,1.5,93.1,0,SAFE
+Hospital Junction,9,37,1,0.89,0.9,99.8,0,SAFE
+Bus Stand Junction,12,22,1,0.96,1.8,90.4,0,SAFE
+Residential Colony Lane,3,13,0,0.22,2.6,41.6,1,CAUTION
+NH-16 Highway Stretch,17,4,1,0.9,3.4,64.4,1,CAUTION
+Residential Colony Lane,11,4,0,0.96,3.2,48.5,1,CAUTION
+Main Market Road,19,27,1,0.72,1.0,83.7,0,SAFE
+Railway Station Road,16,15,1,0.99,0.3,86.1,0,SAFE
+NH-16 Highway Stretch,18,13,1,0.92,3.1,73.2,0,SAFE
+Railway Station Road,11,36,1,0.88,1.2,98.2,0,SAFE
+Industrial Area Road,9,1,0,0.87,6.3,37.1,2,HIGH_ALERT
+College Road,13,11,1,0.97,1.7,76.5,0,SAFE
+Residential Colony Lane,5,6,0,0.31,3.0,31.2,2,HIGH_ALERT
+Village Outskirts Road,19,0,0,0.35,7.8,10.8,2,HIGH_ALERT
+Railway Station Road,11,33,1,0.89,1.5,96.5,0,SAFE
+Railway Station Road,6,14,1,0.91,0.7,86.7,0,SAFE
+Hospital Junction,8,18,1,0.94,1.6,86.9,0,SAFE
+Industrial Area Road,16,0,0,0.88,7.4,32.5,2,HIGH_ALERT
+Residential Colony Lane,3,6,0,0.07,3.2,24.6,2,HIGH_ALERT
+Industrial Area Road,16,1,0,1.0,4.8,41.5,1,CAUTION
+College Road,10,13,1,0.98,3.9,79.7,0,SAFE
+Hospital Junction,20,19,1,0.81,0.6,80.6,0,SAFE
+Residential Colony Lane,8,7,0,0.95,4.0,50.0,1,CAUTION
+Main Market Road,8,12,1,0.94,1.0,77.9,0,SAFE
+Railway Station Road,5,29,1,0.8,1.0,89.3,0,SAFE
+Industrial Area Road,1,1,0,0.31,7.7,16.3,2,HIGH_ALERT
+Main Market Road,10,32,1,0.91,1.6,91.4,0,SAFE
+Main Market Road,12,12,1,0.91,1.1,78.2,0,SAFE
+Village Outskirts Road,16,0,0,1.0,8.0,34.8,2,HIGH_ALERT
+Residential Colony Lane,22,8,0,0.28,3.3,27.1,2,HIGH_ALERT
+Industrial Area Road,13,0,0,0.94,7.8,31.5,2,HIGH_ALERT
+Main Market Road,16,19,1,0.9,1.4,86.8,0,SAFE
+Bus Stand Junction,21,33,1,0.73,1.7,84.1,0,SAFE
+Main Market Road,21,23,1,0.87,1.3,86.7,0,SAFE
+College Road,14,8,1,0.96,3.1,69.6,0,SAFE
+Railway Station Road,6,17,1,1.0,1.3,92.0,0,SAFE
+Railway Station Road,1,31,1,0.76,1.2,92.4,0,SAFE
+College Road,9,6,1,0.97,3.2,71.8,0,SAFE
+Main Market Road,19,35,1,0.81,0.4,91.9,0,SAFE
+Bus Stand Junction,12,22,1,0.9,1.3,83.1,0,SAFE
+Village Outskirts Road,15,3,0,0.95,4.3,52.2,1,CAUTION
+Industrial Area Road,2,3,0,0.25,5.6,17.0,2,HIGH_ALERT
+Railway Station Road,20,16,1,0.74,0.9,76.4,0,SAFE
+Village Outskirts Road,20,1,0,0.19,4.0,16.2,2,HIGH_ALERT
+Canal Bund Road,12,2,0,0.97,3.7,43.5,1,CAUTION
+Industrial Area Road,21,2,0,0.1,5.8,11.9,2,HIGH_ALERT
+Hospital Junction,21,25,1,0.74,1.4,87.5,0,SAFE
+Hospital Junction,1,24,1,0.69,0.4,88.2,0,SAFE
+College Road,13,14,1,0.87,2.8,72.9,0,SAFE
+Canal Bund Road,5,2,0,0.08,5.3,9.6,2,HIGH_ALERT
+College Road,16,10,1,0.93,1.7,77.0,0,SAFE
+Industrial Area Road,16,0,0,0.95,6.2,37.7,2,HIGH_ALERT
+NH-16 Highway Stretch,14,9,1,0.96,3.0,76.3,0,SAFE
+Main Market Road,11,30,1,0.9,0.9,94.9,0,SAFE
+Hospital Junction,12,17,1,0.89,1.3,85.8,0,SAFE
+Village Outskirts Road,20,1,0,0.2,5.1,17.8,2,HIGH_ALERT
+Village Outskirts Road,21,0,0,0.27,5.7,15.6,2,HIGH_ALERT
+Industrial Area Road,1,2,0,0.19,5.9,13.0,2,HIGH_ALERT
+Canal Bund Road,21,3,0,0.2,5.4,18.6,2,HIGH_ALERT
+Main Market Road,11,26,1,0.97,1.5,95.2,0,SAFE
+NH-16 Highway Stretch,12,14,1,0.91,3.0,73.5,0,SAFE
+Hospital Junction,9,16,1,1.0,0.4,91.2,0,SAFE
+Main Market Road,4,20,1,0.8,1.6,81.3,0,SAFE
+Hospital Junction,5,34,1,0.68,1.7,85.9,0,SAFE
+Bus Stand Junction,13,32,1,0.99,1.5,97.8,0,SAFE
+Railway Station Road,2,12,1,0.79,1.6,72.7,0,SAFE
+Industrial Area Road,4,1,0,0.3,7.1,14.3,2,HIGH_ALERT
+Residential Colony Lane,4,6,0,0.21,3.2,29.2,2,HIGH_ALERT
+Industrial Area Road,17,3,0,0.96,5.5,42.5,1,CAUTION
+Railway Station Road,5,12,1,0.78,1.6,73.7,0,SAFE
+College Road,1,8,1,0.56,3.8,54.0,1,CAUTION
+Railway Station Road,5,17,1,0.83,0.9,79.6,0,SAFE
+Main Market Road,19,18,1,0.9,1.3,86.4,0,SAFE
+Industrial Area Road,0,0,0,0.27,4.6,18.2,2,HIGH_ALERT
+Canal Bund Road,4,2,0,0.08,6.9,6.5,2,HIGH_ALERT
+NH-16 Highway Stretch,12,11,1,0.93,3.0,70.2,0,SAFE
+NH-16 Highway Stretch,11,5,1,0.94,1.5,79.1,0,SAFE
+NH-16 Highway Stretch,3,13,1,0.74,2.1,65.9,0,SAFE
+Canal Bund Road,13,2,0,0.94,4.2,49.3,1,CAUTION
+Bus Stand Junction,0,26,1,0.8,1.5,92.9,0,SAFE
+Canal Bund Road,8,1,0,0.87,3.8,44.2,1,CAUTION
+Industrial Area Road,21,2,0,0.08,5.5,11.6,2,HIGH_ALERT
+Hospital Junction,14,32,1,0.96,0.9,99.6,0,SAFE
+Canal Bund Road,19,0,0,0.15,3.5,19.1,2,HIGH_ALERT
+Village Outskirts Road,1,2,0,0.27,5.1,12.1,2,HIGH_ALERT
+Main Market Road,10,38,1,0.87,1.1,92.7,0,SAFE
+Village Outskirts Road,20,3,0,0.28,4.9,17.2,2,HIGH_ALERT
+Village Outskirts Road,17,0,0,1.0,5.8,47.3,1,CAUTION
+Village Outskirts Road,7,0,0,0.9,4.8,34.6,2,HIGH_ALERT
+College Road,18,14,1,0.9,3.5,81.3,0,SAFE
+Hospital Junction,18,29,1,0.96,0.8,94.9,0,SAFE
+Bus Stand Junction,1,33,1,0.75,1.0,85.2,0,SAFE
+Main Market Road,7,34,1,0.91,1.9,92.7,0,SAFE
+Canal Bund Road,18,1,0,0.97,5.9,39.6,2,HIGH_ALERT
+Industrial Area Road,22,2,0,0.25,4.5,23.0,2,HIGH_ALERT
+Hospital Junction,21,36,1,0.69,1.7,81.2,0,SAFE
+Bus Stand Junction,2,35,1,0.86,1.5,93.5,0,SAFE
+NH-16 Highway Stretch,19,8,1,0.5,1.9,55.5,1,CAUTION
+Canal Bund Road,6,0,0,0.85,4.4,38.0,2,HIGH_ALERT
+Railway Station Road,3,39,1,0.88,1.5,87.6,0,SAFE
+Bus Stand Junction,2,34,1,0.86,0.4,97.5,0,SAFE
+Residential Colony Lane,5,12,0,0.14,2.6,35.7,2,HIGH_ALERT
+Main Market Road,17,30,1,0.96,1.2,95.5,0,SAFE
+Bus Stand Junction,12,36,1,0.87,0.7,89.8,0,SAFE
+College Road,4,14,1,0.78,3.6,70.4,0,SAFE
+Canal Bund Road,3,0,0,0.22,4.7,19.0,2,HIGH_ALERT
+College Road,20,13,1,0.72,1.9,72.5,0,SAFE
+Village Outskirts Road,7,1,0,0.95,6.2,33.4,2,HIGH_ALERT
+Canal Bund Road,13,3,0,0.99,5.1,41.7,1,CAUTION
+Main Market Road,18,32,1,0.89,1.3,88.3,0,SAFE
+NH-16 Highway Stretch,16,14,1,0.93,2.2,76.5,0,SAFE
+Bus Stand Junction,22,26,1,0.68,1.9,78.8,0,SAFE
+NH-16 Highway Stretch,18,6,1,0.98,3.6,67.1,0,SAFE
+Bus Stand Junction,8,37,1,0.9,1.1,90.6,0,SAFE
+Hospital Junction,9,36,1,0.97,0.7,91.9,0,SAFE
+Residential Colony Lane,11,6,0,0.94,2.2,52.4,1,CAUTION
+Main Market Road,16,21,1,0.93,1.5,88.3,0,SAFE
+Hospital Junction,18,19,1,0.96,1.4,90.4,0,SAFE
+Hospital Junction,17,36,1,0.95,1.4,98.9,0,SAFE
+Industrial Area Road,12,1,0,0.96,3.7,48.0,1,CAUTION
+Residential Colony Lane,6,12,0,0.87,2.0,60.3,1,CAUTION
+College Road,17,7,1,0.9,3.6,61.7,1,CAUTION
+Bus Stand Junction,2,16,1,0.76,1.2,79.3,0,SAFE
+College Road,11,10,1,0.93,2.3,71.8,0,SAFE
+Bus Stand Junction,0,27,1,0.87,1.0,96.1,0,SAFE
+Bus Stand Junction,22,14,1,0.66,1.8,70.6,0,SAFE
+Railway Station Road,6,25,1,0.97,0.9,99.9,0,SAFE
+Residential Colony Lane,11,12,0,0.89,3.0,55.6,1,CAUTION
+College Road,19,8,1,0.4,3.3,49.7,1,CAUTION
+Hospital Junction,17,15,1,0.94,1.5,83.5,0,SAFE
+Industrial Area Road,14,0,0,0.87,5.3,36.5,2,HIGH_ALERT
+Canal Bund Road,4,0,0,0.23,4.7,18.8,2,HIGH_ALERT
+Bus Stand Junction,6,31,1,0.91,0.4,96.5,0,SAFE
+Village Outskirts Road,20,2,0,0.12,5.8,10.5,2,HIGH_ALERT
+Main Market Road,2,35,1,0.66,0.9,84.1,0,SAFE
+College Road,16,12,1,1.0,3.8,73.8,0,SAFE
+Bus Stand Junction,17,28,1,0.97,0.6,93.9,0,SAFE
+Village Outskirts Road,12,3,0,0.86,6.9,29.7,2,HIGH_ALERT
+Industrial Area Road,2,0,0,0.06,7.3,1.2,2,HIGH_ALERT
+Hospital Junction,4,22,1,0.75,0.4,82.5,0,SAFE
+Residential Colony Lane,15,13,0,0.99,2.8,61.1,1,CAUTION
+Residential Colony Lane,12,4,0,0.98,1.7,57.6,1,CAUTION
+Railway Station Road,23,19,1,0.79,1.5,81.8,0,SAFE
+Main Market Road,5,35,1,0.81,1.7,91.6,0,SAFE
+Industrial Area Road,20,1,0,0.26,4.0,21.8,2,HIGH_ALERT
+College Road,4,14,1,0.77,3.9,67.4,0,SAFE
+College Road,17,7,1,0.96,2.9,71.7,0,SAFE
+College Road,1,14,1,0.81,4.0,72.4,0,SAFE
+Hospital Junction,12,14,1,0.89,0.5,77.6,0,SAFE
+College Road,9,12,1,0.9,3.9,73.0,0,SAFE
+Village Outskirts Road,3,3,0,0.07,6.6,10.1,2,HIGH_ALERT
+Main Market Road,11,33,1,0.92,1.5,91.7,0,SAFE
+Railway Station Road,19,23,1,0.66,0.3,90.7,0,SAFE
+Village Outskirts Road,14,2,0,0.89,7.2,37.6,2,HIGH_ALERT
+Railway Station Road,12,20,1,0.97,0.6,91.3,0,SAFE
+NH-16 Highway Stretch,1,7,1,0.47,3.1,54.1,1,CAUTION
+Residential Colony Lane,19,9,0,0.18,3.4,28.3,2,HIGH_ALERT
+Main Market Road,5,26,1,0.7,1.6,86.7,0,SAFE
+Bus Stand Junction,14,23,1,1.0,1.1,96.9,0,SAFE
+Industrial Area Road,16,0,0,0.97,7.0,37.8,2,HIGH_ALERT
+Railway Station Road,11,32,1,1.0,1.9,97.1,0,SAFE
+NH-16 Highway Stretch,13,12,1,0.94,1.5,74.3,0,SAFE
+Industrial Area Road,5,3,0,0.07,5.7,13.6,2,HIGH_ALERT
+Village Outskirts Road,20,0,0,0.18,6.2,16.7,2,HIGH_ALERT
+Bus Stand Junction,13,26,1,0.89,1.3,91.7,0,SAFE
+Industrial Area Road,0,3,0,0.06,7.0,5.3,2,HIGH_ALERT
+Main Market Road,11,36,1,0.85,1.3,91.4,0,SAFE
+Village Outskirts Road,21,3,0,0.22,6.7,11.9,2,HIGH_ALERT
+Main Market Road,12,31,1,0.9,0.9,94.4,0,SAFE
+Village Outskirts Road,6,1,0,0.97,6.6,37.2,2,HIGH_ALERT
+Main Market Road,7,22,1,0.98,0.5,93.1,0,SAFE
+Industrial Area Road,5,0,0,0.21,3.7,20.2,2,HIGH_ALERT
+Bus Stand Junction,19,26,1,0.67,1.7,85.4,0,SAFE
+NH-16 Highway Stretch,15,7,1,0.97,3.0,68.1,0,SAFE
+Canal Bund Road,13,2,0,0.94,6.8,38.2,2,HIGH_ALERT
+Industrial Area Road,12,2,0,1.0,4.5,43.1,1,CAUTION
+College Road,20,10,1,0.69,1.6,65.6,0,SAFE
+Village Outskirts Road,17,2,0,1.0,4.5,46.3,1,CAUTION
+Canal Bund Road,18,2,0,0.91,4.5,43.4,1,CAUTION
+Main Market Road,6,23,1,0.99,0.6,99.1,0,SAFE
+Residential Colony Lane,3,7,0,0.21,2.8,27.9,2,HIGH_ALERT
+Railway Station Road,8,15,1,0.91,0.3,88.6,0,SAFE
+NH-16 Highway Stretch,5,10,1,0.8,2.2,74.4,0,SAFE
+Village Outskirts Road,11,2,0,0.94,6.3,37.7,2,HIGH_ALERT
+Hospital Junction,3,27,1,0.81,1.3,91.3,0,SAFE
+Bus Stand Junction,22,16,1,0.77,1.8,78.3,0,SAFE
+Hospital Junction,6,36,1,0.86,1.4,90.5,0,SAFE
+Main Market Road,1,14,1,0.73,1.4,72.4,0,SAFE
+College Road,14,14,1,0.92,3.7,75.8,0,SAFE
+Canal Bund Road,9,3,0,0.91,7.2,39.4,2,HIGH_ALERT
+Main Market Road,21,31,1,0.8,0.9,86.6,0,SAFE
+Residential Colony Lane,11,8,0,0.96,3.5,57.7,1,CAUTION
+Village Outskirts Road,11,2,0,0.89,4.0,43.1,1,CAUTION
+Bus Stand Junction,8,16,1,0.86,1.9,79.2,0,SAFE
+Residential Colony Lane,4,4,0,0.06,2.8,16.8,2,HIGH_ALERT
+Canal Bund Road,19,0,0,0.26,5.7,15.1,2,HIGH_ALERT
+Hospital Junction,14,22,1,0.95,1.1,93.1,0,SAFE
+NH-16 Highway Stretch,22,7,1,0.45,3.3,51.7,1,CAUTION
+Village Outskirts Road,4,2,0,0.26,4.3,18.8,2,HIGH_ALERT
+College Road,22,13,1,0.65,2.4,69.4,0,SAFE
+Hospital Junction,16,23,1,0.97,0.5,93.7,0,SAFE
+NH-16 Highway Stretch,0,4,1,0.56,2.0,59.3,1,CAUTION
+Canal Bund Road,1,1,0,0.15,6.2,7.5,2,HIGH_ALERT
+Main Market Road,8,36,1,0.97,1.8,99.3,0,SAFE
+NH-16 Highway Stretch,1,9,1,0.57,2.3,61.4,1,CAUTION
+Village Outskirts Road,1,1,0,0.15,7.5,6.7,2,HIGH_ALERT
+Village Outskirts Road,6,0,0,0.94,5.0,43.2,1,CAUTION
+Canal Bund Road,6,2,0,0.91,6.6,33.1,2,HIGH_ALERT
+Main Market Road,2,23,1,0.8,0.3,88.9,0,SAFE
+Hospital Junction,13,25,1,0.92,1.4,96.6,0,SAFE
+Bus Stand Junction,5,39,1,0.74,0.3,89.2,0,SAFE
+Residential Colony Lane,1,8,0,0.19,2.1,34.1,2,HIGH_ALERT
+Bus Stand Junction,11,38,1,0.97,1.2,89.4,0,SAFE
+College Road,15,8,1,0.89,3.7,65.9,0,SAFE
+Bus Stand Junction,13,15,1,0.89,0.7,84.1,0,SAFE
+Railway Station Road,7,27,1,0.96,0.5,98.3,0,SAFE
+Canal Bund Road,10,2,0,0.88,6.6,36.5,2,HIGH_ALERT
+College Road,23,4,1,0.46,2.9,48.6,1,CAUTION
+College Road,21,4,1,0.53,2.4,54.0,1,CAUTION
+College Road,21,9,1,0.55,2.8,59.8,1,CAUTION
+Hospital Junction,9,19,1,0.93,1.6,89.8,0,SAFE
+Residential Colony Lane,3,5,0,0.31,3.3,31.7,2,HIGH_ALERT
+Railway Station Road,3,21,1,0.8,1.1,87.2,0,SAFE
+Main Market Road,2,23,1,0.7,1.8,86.3,0,SAFE
+Canal Bund Road,8,1,0,0.86,6.3,40.4,1,CAUTION
+Industrial Area Road,1,3,0,0.26,4.1,18.1,2,HIGH_ALERT
+College Road,8,4,1,0.9,1.5,61.8,1,CAUTION
+Railway Station Road,3,37,1,0.88,0.9,91.3,0,SAFE
+Residential Colony Lane,0,7,0,0.15,2.0,31.3,2,HIGH_ALERT
+Village Outskirts Road,8,2,0,0.93,3.8,46.2,1,CAUTION
+Village Outskirts Road,7,1,0,0.88,6.6,30.8,2,HIGH_ALERT
+Canal Bund Road,2,1,0,0.35,6.5,19.3,2,HIGH_ALERT
+Bus Stand Junction,22,31,1,0.79,0.4,97.5,0,SAFE
+NH-16 Highway Stretch,4,12,1,0.75,1.9,74.6,0,SAFE
+Main Market Road,15,23,1,0.92,2.0,88.9,0,SAFE
+College Road,18,11,1,0.96,1.6,75.5,0,SAFE
+Residential Colony Lane,19,9,0,0.29,2.1,38.1,2,HIGH_ALERT
+Main Market Road,20,27,1,0.69,1.2,84.1,0,SAFE
+Industrial Area Road,20,1,0,0.22,7.7,6.1,2,HIGH_ALERT
+Railway Station Road,19,34,1,0.87,1.9,92.0,0,SAFE
+Village Outskirts Road,4,3,0,0.33,4.4,22.6,2,HIGH_ALERT
+Canal Bund Road,5,1,0,0.25,6.3,19.5,2,HIGH_ALERT
+Railway Station Road,15,18,1,0.86,0.8,85.5,0,SAFE
+Residential Colony Lane,2,5,0,0.12,1.9,25.7,2,HIGH_ALERT
+Canal Bund Road,1,0,0,0.14,5.7,12.3,2,HIGH_ALERT
+Main Market Road,13,27,1,0.88,1.6,84.2,0,SAFE
+Industrial Area Road,12,0,0,0.92,4.0,42.4,1,CAUTION
+NH-16 Highway Stretch,14,7,1,0.97,1.7,73.8,0,SAFE
+NH-16 Highway Stretch,17,9,1,0.85,1.5,68.9,0,SAFE
+Bus Stand Junction,22,30,1,0.79,1.0,88.5,0,SAFE
+Bus Stand Junction,23,26,1,0.71,2.0,83.0,0,SAFE
+Railway Station Road,20,20,1,0.72,1.6,81.8,0,SAFE
+Main Market Road,3,15,1,0.85,2.0,75.0,0,SAFE
+College Road,19,7,1,0.61,3.1,59.6,1,CAUTION
+Railway Station Road,6,38,1,0.97,1.0,98.5,0,SAFE
+Residential Colony Lane,21,8,0,0.17,1.5,30.6,2,HIGH_ALERT
+Residential Colony Lane,9,10,0,0.93,1.8,60.0,1,CAUTION
+Main Market Road,12,32,1,0.94,1.7,93.3,0,SAFE
+Main Market Road,10,32,1,0.86,1.7,89.5,0,SAFE
+Canal Bund Road,3,1,0,0.27,5.0,11.2,2,HIGH_ALERT
+NH-16 Highway Stretch,5,13,1,0.87,3.5,71.0,0,SAFE
+Industrial Area Road,16,3,0,0.95,4.9,39.8,2,HIGH_ALERT
+Canal Bund Road,17,1,0,0.97,4.6,42.4,1,CAUTION
+College Road,1,11,1,0.81,3.7,65.4,0,SAFE
+Hospital Junction,12,30,1,1.0,0.5,99.3,0,SAFE
+College Road,4,11,1,0.67,1.6,66.6,0,SAFE
+Hospital Junction,2,35,1,0.78,0.4,91.9,0,SAFE
+Hospital Junction,13,15,1,0.97,0.9,81.6,0,SAFE
+Canal Bund Road,4,0,0,0.28,6.5,15.2,2,HIGH_ALERT
+Canal Bund Road,5,2,0,0.34,3.9,27.5,2,HIGH_ALERT
+Industrial Area Road,8,1,0,0.85,6.5,32.4,2,HIGH_ALERT
+NH-16 Highway Stretch,3,12,1,0.78,3.1,67.0,0,SAFE
+Hospital Junction,1,33,1,0.88,1.1,95.8,0,SAFE
+Bus Stand Junction,10,21,1,0.99,0.9,90.8,0,SAFE
+Canal Bund Road,17,1,0,0.99,4.7,40.3,1,CAUTION
+Railway Station Road,13,28,1,0.89,1.4,93.6,0,SAFE
+Main Market Road,11,20,1,0.95,1.2,90.0,0,SAFE
+Residential Colony Lane,7,11,0,0.88,2.9,56.3,1,CAUTION
+Village Outskirts Road,10,0,0,0.86,7.7,29.8,2,HIGH_ALERT
+Bus Stand Junction,1,32,1,0.85,1.5,91.1,0,SAFE
+Hospital Junction,11,24,1,0.96,1.0,90.4,0,SAFE
+Main Market Road,23,14,1,0.79,0.8,79.7,0,SAFE
+Industrial Area Road,4,2,0,0.22,4.2,20.7,2,HIGH_ALERT
+Hospital Junction,0,23,1,0.9,1.5,89.7,0,SAFE
+Canal Bund Road,1,2,0,0.27,4.9,17.0,2,HIGH_ALERT
+College Road,1,12,1,0.78,2.4,74.3,0,SAFE
+Canal Bund Road,21,3,0,0.11,6.9,10.4,2,HIGH_ALERT
+Bus Stand Junction,20,36,1,0.84,1.5,90.3,0,SAFE
+Railway Station Road,4,37,1,0.76,0.9,93.0,0,SAFE
+NH-16 Highway Stretch,9,11,1,0.87,2.0,72.5,0,SAFE
+NH-16 Highway Stretch,16,10,1,0.93,3.7,69.1,0,SAFE
+Railway Station Road,23,16,1,0.79,1.3,84.8,0,SAFE
+Bus Stand Junction,17,30,1,0.97,0.8,100.0,0,SAFE
+Main Market Road,13,30,1,0.9,0.4,97.6,0,SAFE
+NH-16 Highway Stretch,18,7,1,0.96,1.8,75.4,0,SAFE
+Main Market Road,17,31,1,0.97,0.4,100.0,0,SAFE
+Village Outskirts Road,12,0,0,0.95,5.4,42.4,1,CAUTION
+Village Outskirts Road,14,1,0,0.96,6.9,38.6,2,HIGH_ALERT
+Railway Station Road,12,22,1,0.97,0.3,94.7,0,SAFE
+Village Outskirts Road,16,2,0,0.99,4.8,43.7,1,CAUTION
+Railway Station Road,4,16,1,0.76,1.1,73.3,0,SAFE
+Residential Colony Lane,3,9,0,0.06,3.1,24.3,2,HIGH_ALERT
+NH-16 Highway Stretch,23,12,1,0.67,3.9,60.1,1,CAUTION
+Canal Bund Road,21,3,0,0.13,4.7,13.2,2,HIGH_ALERT
+Industrial Area Road,12,1,0,0.92,3.8,38.1,2,HIGH_ALERT
+Hospital Junction,10,31,1,0.93,1.4,90.1,0,SAFE
+College Road,5,5,1,0.54,3.3,48.4,1,CAUTION
+Hospital Junction,14,27,1,0.86,1.9,85.7,0,SAFE
+Industrial Area Road,4,1,0,0.09,7.9,3.0,2,HIGH_ALERT
+College Road,4,11,1,0.73,2.3,66.2,0,SAFE
+Industrial Area Road,6,1,0,0.93,6.0,43.6,1,CAUTION
+Bus Stand Junction,10,20,1,0.93,1.6,83.5,0,SAFE
+Bus Stand Junction,0,21,1,0.89,0.6,91.5,0,SAFE
+Industrial Area Road,1,1,0,0.17,5.6,15.0,2,HIGH_ALERT
+Hospital Junction,14,19,1,0.9,0.5,94.2,0,SAFE
+Railway Station Road,18,28,1,0.89,0.6,93.2,0,SAFE
+NH-16 Highway Stretch,21,11,1,0.81,1.8,69.2,0,SAFE
+NH-16 Highway Stretch,13,14,1,0.93,3.9,75.7,0,SAFE
+Bus Stand Junction,23,14,1,0.78,1.8,79.4,0,SAFE
+NH-16 Highway Stretch,2,9,1,0.51,2.4,55.2,1,CAUTION
+Residential Colony Lane,18,14,0,0.93,2.0,63.7,1,CAUTION
+Hospital Junction,8,15,1,0.9,0.8,79.1,0,SAFE
+Hospital Junction,17,21,1,0.93,1.1,91.6,0,SAFE
+Bus Stand Junction,6,27,1,0.99,1.8,94.1,0,SAFE
+Hospital Junction,4,39,1,0.73,1.7,85.1,0,SAFE
+Village Outskirts Road,13,1,0,0.87,7.4,30.6,2,HIGH_ALERT
+Main Market Road,12,34,1,0.96,0.5,100.0,0,SAFE
+Bus Stand Junction,3,39,1,0.76,1.8,90.7,0,SAFE
+Industrial Area Road,19,1,0,0.16,4.4,23.6,2,HIGH_ALERT
+Railway Station Road,8,31,1,0.87,1.9,91.5,0,SAFE
+Industrial Area Road,20,3,0,0.3,5.7,22.0,2,HIGH_ALERT
+Canal Bund Road,15,0,0,0.86,4.0,38.3,2,HIGH_ALERT
+Bus Stand Junction,8,30,1,0.96,1.1,100.0,0,SAFE
+Industrial Area Road,22,3,0,0.27,6.1,19.1,2,HIGH_ALERT
+Railway Station Road,0,31,1,0.68,1.6,85.9,0,SAFE
+Railway Station Road,7,35,1,0.88,0.4,93.6,0,SAFE
+Hospital Junction,22,34,1,0.74,0.4,91.5,0,SAFE
+Canal Bund Road,14,1,0,0.86,5.1,37.0,2,HIGH_ALERT
+NH-16 Highway Stretch,13,7,1,0.96,3.7,72.1,0,SAFE
+Railway Station Road,12,26,1,0.99,0.7,99.9,0,SAFE
+Bus Stand Junction,23,25,1,0.87,1.1,98.4,0,SAFE
+Hospital Junction,2,30,1,0.68,2.0,82.2,0,SAFE
+Hospital Junction,13,37,1,0.87,1.9,90.4,0,SAFE
+Industrial Area Road,18,1,0,0.96,7.6,38.5,2,HIGH_ALERT
+Railway Station Road,14,31,1,0.96,0.5,95.8,0,SAFE
+NH-16 Highway Stretch,7,4,1,0.85,2.1,58.6,1,CAUTION
+Residential Colony Lane,2,12,0,0.27,2.2,37.5,2,HIGH_ALERT
+NH-16 Highway Stretch,3,11,1,0.73,3.7,66.2,0,SAFE
+Main Market Road,15,23,1,1.0,1.3,100.0,0,SAFE
+Bus Stand Junction,20,32,1,0.86,0.4,91.3,0,SAFE
+Industrial Area Road,8,3,0,0.86,7.4,35.9,2,HIGH_ALERT
+Main Market Road,7,24,1,0.86,1.5,89.9,0,SAFE
+Industrial Area Road,18,1,0,0.88,4.2,44.1,1,CAUTION
+Residential Colony Lane,18,9,0,0.96,3.0,57.1,1,CAUTION
+NH-16 Highway Stretch,21,6,1,0.64,3.1,52.0,1,CAUTION
+Bus Stand Junction,22,20,1,0.81,1.2,84.0,0,SAFE
+Main Market Road,11,17,1,0.87,0.4,84.3,0,SAFE
+Canal Bund Road,0,0,0,0.19,5.0,15.5,2,HIGH_ALERT
+NH-16 Highway Stretch,23,4,1,0.4,2.8,43.1,1,CAUTION
+Main Market Road,7,22,1,0.89,1.7,81.1,0,SAFE
+Canal Bund Road,10,1,0,0.91,7.7,29.5,2,HIGH_ALERT
+Residential Colony Lane,16,12,0,0.93,3.5,58.8,1,CAUTION
+College Road,12,14,1,0.92,1.6,83.0,0,SAFE
+Main Market Road,7,23,1,0.98,1.5,89.6,0,SAFE
+Main Market Road,12,37,1,0.97,1.9,96.7,0,SAFE
+Hospital Junction,13,34,1,0.97,1.5,97.7,0,SAFE
+Main Market Road,3,29,1,0.8,0.5,88.1,0,SAFE
+Hospital Junction,19,28,1,0.67,0.4,89.0,0,SAFE
+Industrial Area Road,9,1,0,0.94,7.5,34.8,2,HIGH_ALERT
+Bus Stand Junction,18,33,1,0.87,0.5,95.6,0,SAFE
+Residential Colony Lane,1,9,0,0.35,3.6,30.8,2,HIGH_ALERT
+Bus Stand Junction,16,20,1,0.89,1.0,95.7,0,SAFE
+Canal Bund Road,4,0,0,0.11,7.1,4.6,2,HIGH_ALERT
+Industrial Area Road,22,3,0,0.3,6.4,16.2,2,HIGH_ALERT
+Railway Station Road,12,34,1,0.98,1.2,100.0,0,SAFE
+Bus Stand Junction,2,14,1,0.88,1.8,72.6,0,SAFE
+Canal Bund Road,21,3,0,0.21,5.3,15.6,2,HIGH_ALERT
+Bus Stand Junction,23,39,1,0.69,1.0,85.7,0,SAFE
+NH-16 Highway Stretch,18,13,1,0.95,3.1,78.4,0,SAFE
+Main Market Road,16,17,1,0.93,1.7,84.5,0,SAFE
+Village Outskirts Road,0,2,0,0.09,6.6,12.5,2,HIGH_ALERT
+Residential Colony Lane,23,11,0,0.34,2.8,36.8,2,HIGH_ALERT
+Village Outskirts Road,10,3,0,0.91,5.4,41.6,1,CAUTION
+Village Outskirts Road,14,0,0,0.99,4.8,44.7,1,CAUTION
+NH-16 Highway Stretch,17,12,1,0.89,4.0,69.5,0,SAFE
+NH-16 Highway Stretch,16,9,1,0.87,2.9,74.2,0,SAFE
+Village Outskirts Road,20,2,0,0.16,7.3,16.4,2,HIGH_ALERT
+Bus Stand Junction,12,30,1,0.93,0.6,92.7,0,SAFE
+College Road,3,6,1,0.55,1.9,58.9,1,CAUTION
+Railway Station Road,12,26,1,0.88,1.7,93.7,0,SAFE
+Bus Stand Junction,7,33,1,0.94,1.3,97.2,0,SAFE
+Residential Colony Lane,6,8,0,0.98,1.9,60.7,1,CAUTION
+Residential Colony Lane,1,14,0,0.19,2.4,38.3,2,HIGH_ALERT
+Village Outskirts Road,20,1,0,0.09,7.1,4.6,2,HIGH_ALERT
+Canal Bund Road,11,1,0,0.92,4.2,45.5,1,CAUTION
+NH-16 Highway Stretch,5,10,1,0.72,2.4,68.1,0,SAFE
+Industrial Area Road,18,1,0,0.98,6.8,36.3,2,HIGH_ALERT
+Bus Stand Junction,18,26,1,0.94,1.6,97.4,0,SAFE
+Hospital Junction,18,17,1,0.85,0.7,82.8,0,SAFE
+College Road,15,5,1,0.95,2.7,70.4,0,SAFE
+Canal Bund Road,20,3,0,0.15,7.2,14.2,2,HIGH_ALERT
+Railway Station Road,23,36,1,0.9,1.6,92.1,0,SAFE
+Residential Colony Lane,0,8,0,0.33,1.5,36.3,2,HIGH_ALERT
+Industrial Area Road,0,3,0,0.08,6.7,14.3,2,HIGH_ALERT
+NH-16 Highway Stretch,5,14,1,0.68,2.4,67.5,0,SAFE
+Bus Stand Junction,12,30,1,0.89,1.2,93.2,0,SAFE
+Canal Bund Road,15,1,0,0.86,3.7,39.6,2,HIGH_ALERT
+Hospital Junction,14,39,1,0.91,1.8,90.0,0,SAFE
+College Road,21,10,1,0.71,2.7,63.7,1,CAUTION
+Industrial Area Road,20,0,0,0.16,6.2,7.5,2,HIGH_ALERT
+Main Market Road,22,34,1,0.76,1.8,88.1,0,SAFE
+NH-16 Highway Stretch,7,9,1,0.95,1.7,77.2,0,SAFE
+NH-16 Highway Stretch,20,11,1,0.79,2.2,67.4,0,SAFE
+NH-16 Highway Stretch,12,14,1,0.89,3.4,68.9,0,SAFE
+Bus Stand Junction,23,13,1,0.72,1.5,72.0,0,SAFE
+Main Market Road,14,36,1,0.93,0.3,95.8,0,SAFE
+Bus Stand Junction,7,20,1,0.99,0.9,91.9,0,SAFE
+Industrial Area Road,0,2,0,0.3,4.7,24.2,2,HIGH_ALERT
+Railway Station Road,12,30,1,0.91,1.8,90.4,0,SAFE
+Railway Station Road,4,28,1,0.77,1.5,92.9,0,SAFE
+Hospital Junction,22,21,1,0.71,0.5,79.8,0,SAFE
+Residential Colony Lane,0,11,0,0.34,3.4,33.4,2,HIGH_ALERT
+Residential Colony Lane,19,6,0,0.35,3.1,34.9,2,HIGH_ALERT
+Main Market Road,4,33,1,0.78,1.9,83.2,0,SAFE
+Bus Stand Junction,13,14,1,0.86,0.9,72.8,0,SAFE
+Industrial Area Road,12,1,0,0.91,6.0,35.6,2,HIGH_ALERT
+Village Outskirts Road,10,1,0,0.88,7.5,37.5,2,HIGH_ALERT
+College Road,12,5,1,0.99,2.5,70.5,0,SAFE
+Village Outskirts Road,11,3,0,0.96,5.3,42.2,1,CAUTION
+Village Outskirts Road,0,3,0,0.06,3.9,19.0,2,HIGH_ALERT
+Village Outskirts Road,9,0,0,0.98,4.7,44.1,1,CAUTION
